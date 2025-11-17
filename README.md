@@ -1,10 +1,10 @@
-# flight_app
+# flight_booking_app
 
-A new Flutter project.
+A firs as Flutter project.
 
-## Getting Started
+## Getting Started with flight
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application as a team
 
 A few resources to get you started if this is your first Flutter project:
 
